@@ -3791,7 +3791,7 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 	background-color: rgba(0,0,0,.5);
 }
 
-.circleIconButton-1QV--U:hover {
+.circleIconButton-1QV--U:hover,.circleIconButton-1QV--U.selected-1JjBPm {
 	background-color: var(--primary)!important;
 }
 
