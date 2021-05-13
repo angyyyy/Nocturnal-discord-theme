@@ -3022,7 +3022,7 @@ svg[name=Nitro] g path {
 	background-color: var(--backgroundDark);
 	box-shadow: none;
 }
-
+/*Memory to the past switches :(
 .bd-switch::after,.themeDefault-24hCdX::after {
 	content: "";
 	display: block;
@@ -3069,7 +3069,7 @@ svg[name=Nitro] g path {
 	left: 6px;
 	background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/checkmark-switcher.svg);
 	background-size: 11px 11px;
-}
+}*/
 
 .valueChecked-m-4IJZ.sizeDefault-2YlOZr:active:after,.themeDefault-24hCdX.sizeDefault-2YlOZr:active:after {
 	width: 20px;
@@ -3776,4 +3776,33 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 
 .select-2TCrqx .css-1kj8ui-container .css-3vaxre-menu {
 	background-color: var(--backgroundDark);
+}
+
+.container-lRFx4q {
+	background-color: var(--backgroundDark);
+}
+
+.scroller-2ZPeAD {
+	border: none;
+}
+
+.circleIconButton-1QV--U {
+	color: #fff;
+	background-color: rgba(0,0,0,.5);
+}
+
+.circleIconButton-1QV--U:hover {
+	background-color: var(--primary)!important;
+}
+
+.section-2gLsgF,.theme-dark .separator-XqIyoz {
+	background-color: rgba(0,0,0,0);
+}
+
+.theme-dark .separator-XqIyoz {
+	background-color: rgba(0,0,0,.25);
+}
+
+.theme-dark .outer-1AjyKL.active-1xchHY, .theme-dark .outer-1AjyKL.interactive-3B9GmY:hover {
+	background-color: rgba(0,0,0,.35);
 }
