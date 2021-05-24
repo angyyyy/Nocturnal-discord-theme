@@ -13,8 +13,8 @@
 
 .avatar-VxgULZ,.avatar-VxgULZ:before {
 	margin: 2px 0 0 2px;
-	width: calc(100% - 4px);
-	height: calc(100% - 4px);
+	width: calc(100% - 0px);
+	height: calc(100% - 0px);
 }
 
 .userSettingsAccount-2eMFVR .avatarUploaderInner-3Mrx2N, .avatarUploaderInner-3UNxY3 {
@@ -626,8 +626,8 @@
 
 .typing-2GQL18 {
 	background: 0 0!important;
-	top: -20px;
-	left: 14.5px
+	top: 10px;
+	left: 10px
 }
 
 .headerBar-UHpsPw,.searchBar-6Kv8R2 {
@@ -1114,7 +1114,7 @@ svg[name=Nova_Discord] * {
 }
 
 .chat-3bRxxu form {
-	margin: 9px 2px;
+	margin: 10px 10px;
 }
 
 .form-2fGMdU {
@@ -2153,16 +2153,6 @@ svg[name=Nitro] g path {
 	margin: 0;
 	border: none!important;
 	background-color: rgba(0, 0, 0, 0);
-}
-
-.avatar-1BDn8e {
-	margin-top: auto;
-	top: auto;
-	left: 18px;
-	border-radius: 50px;
-	border-color: darkcyan;
-	border-style: solid;
-	border-width: 2px;;
 }
 
 #bd-pub-li {
