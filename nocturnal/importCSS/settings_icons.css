@@ -1,0 +1,243 @@
+.sidebar-CFHs9e .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:not(.role-3wi9Tf)::before,
+.side-8zPYf6 .item-PXvHYJ:not(.role-3wi9Tf)::before {
+	content: "";
+	width: 20px;
+	height: 20px;
+	background-size: cover !important;
+	position: absolute;
+	left: 10px;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item,
+.side-8zPYf6 .item-PXvHYJ {
+	padding-left: 40px;
+}
+div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item,
+div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 .item-PXvHYJ {
+	padding-left: 10px;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(2)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/account.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(3)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/privacy.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(4)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/apps.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(5)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/connections.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(8)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/nitro.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(9)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/boost.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(10)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/gift.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(11)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/billing.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(14)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/eye.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(15)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/bandages.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(16)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/voice.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(17)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/text.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(18)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/notifications.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(19)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/keybinds.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(20)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/language.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(21)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/windows.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(22)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/twitch.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(23)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/dev_options.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(26)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/games.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(27)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/overlay.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(30)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/core.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(31)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/emote.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(32)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/css.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(33)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/plugins.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(34)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/theme.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(36)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/changelog.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(37)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/hype.png) center;
+}
+div[aria-label="USER_SETTINGS"]
+	.standardSidebarView-3F1I7i
+	.sidebarRegion-VFTUkN
+	.sidebarRegionScroller-3MXcoP
+	.side-8zPYf6
+	.item-PXvHYJ:nth-child(39)::before {
+	background: url(https://flashal.github.io/Nocturnal-discord-theme/icons/logout.png) center;
+}

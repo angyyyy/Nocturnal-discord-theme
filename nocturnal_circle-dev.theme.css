@@ -1,0 +1,47 @@
+/**
+ * @name Nocturnal Circle-dev
+ * @author Печенько#8596
+ * @version ersion for devolopers
+ * @description A simple & clean dark theme for thoses who live at night, made to be easy on the eye. Fixed & reworked by Печенько#3183
+ * @source https://github.com/FlashAL/Nocturnal-discord-theme 
+ * @authorLink https://discordhub.com/profile/367510031484190730
+ * @donate https://www.donationalerts.com/r/flashal
+ * @authorId 367510031484190730
+ * @invite yfzJuQMWxR
+*/
+
+@import url("http://127.0.0.1:3002/circle_core.css");
+
+/* @import url("https://flashal.github.io/Nocturnal-discord-theme/nocturnal/importCSS/circle_core.css"); */
+
+@import url("https://discordstyles.github.io/RadialStatus/base.css");
+@import url("http://127.0.0.1:3002/code_blocks.css");
+@import url("http://127.0.0.1:3002/settings_icons.css");
+
+:root {
+	--backgroundDark: rgb(24, 28, 37);
+	--backgroundDarker: rgb(20, 23, 31);
+	--primary: #008ae6;
+	--primaryGradient1: #008ae6;
+	--primaryGradient2: #00e68a;
+	--DangerColor: #dc3545;
+	--WarningColor: #ffc107;
+	--SuccesColor: #28a745;
+
+	--backgroundCode: #2f3136; /* For code blocks */
+	--backgroundCodeLine: #3b3e45; /* For code blocks */
+	--backgroundName: #202225; /* For code blocks */
+	--nameShadow: #268bd2; /* For code blocks */
+
+	--rs-small-spacing: 2px; /* RadialStatus spacing between avatar and status */
+	--rs-large-spacing: 3px; /* RadialStatus spacing between avatar and status for user popouts & modals/profiles | MUST end in px */
+	--rs-width: 2px; /* RadialStatus Width/thickness of status border */
+	--rs-avatar-shape: 50%; /* RadialStatus 50% for round - 0% for square */
+	--rs-online-color: #43b581; /* RadialStatus color for online status */
+	--rs-idle-color: #faa61a; /* RadialStatus color for idle status */
+	--rs-dnd-color: #f04747; /* RadialStatus color for dnd status */
+	--rs-offline-color: #636b75; /* RadialStatus color for offline status */
+	--rs-streaming-color: #643da7; /* RadialStatus color for streaming status */
+	--rs-invisible-color: #747f8d; /* RadialStatus color for invisible status - Note this will only show for your own invisibility */
+}
+
